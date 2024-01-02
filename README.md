@@ -4,7 +4,7 @@ Welcome to my repository that houses various programming projects I've worked on
 
 # Table of Contents
 
-  Project 1: Calculator
+Project 1: Calculator
   
 Description: 
 - Straightforward and user-friendly application designed to handle regular mathematical operations.
@@ -13,7 +13,7 @@ Description:
 - Language: Java
 
    
-  Project 2: To Do List
+Project 2: To Do List
   
 Description:
 - TaskMaster is a feature-rich to-do list application that simplifies task management and boosts productivity.
@@ -23,7 +23,7 @@ Description:
 - Language: Java
 
 
-  Project 3: Zillow Mockup Application
+Project 3: Zillow Mockup Application
   
 Description:
 - Assignment from programming concepts/methods class taken at Sierra College.
